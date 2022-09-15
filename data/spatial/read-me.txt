@@ -1,0 +1,2 @@
+Files in this folder:
+- Spatial data such as GeoJSON or Shapefiles for maps
